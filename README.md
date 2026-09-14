@@ -38,3 +38,5 @@ O motor pode posteriormente ganhar expressões como:
 - personagens
 - campanhas
 - autenticação e PostgreSQL
+
+## "Dispara publicação no GitHub Pages"
